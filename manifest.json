@@ -1,0 +1,22 @@
+{
+    "name": "Selamat Datang di Kelarin.com",
+    "short_name": "Kelarin",
+    "description": "Football Premier League",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "image/logoapps.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "image/logoapps.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+  "gcm_sender_id": "349119934523"
+}
